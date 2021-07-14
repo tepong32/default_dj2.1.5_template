@@ -7,8 +7,8 @@ NOTES:
 I'm trying to create a re-usable Django website template. (This is NOT Django REST Framework-based.)
 Backend-wise, I think this is a good starter template. Template features are as follows:
 
-To try it out:
-just clone the repo,
+To try it out: /n
+just clone the repo, /n
 -delete database ad migrations if they're included,
 -makemigrations & migrate command,
 -create a super-user,
